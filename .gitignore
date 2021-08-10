@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.pyc
+
+PregunChaco_App/PregunChaco_App/settings/local.py
