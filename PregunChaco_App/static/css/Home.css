@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	text-decoration:none; 
+}
+
+h1 {
+	color:#FCA205;.
+}
+body{
+	background-image: url("../ing/Home_Background.jpg");
+}
